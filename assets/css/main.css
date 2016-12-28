@@ -2878,7 +2878,7 @@
 		/* Main */
 
 			.main .container {
-				padding: 3em 1.5em 1em 1.5em ;
+				padding: 1.5em 1.5em 1.5em 1.5em ;
 			}
 
 				.main .container .image.primary:first-child {
@@ -2912,7 +2912,7 @@
 					}
 
 				#header .container {
-					display: none;
+					/*display: none;*/
 				}
 
 		/* Footer */
